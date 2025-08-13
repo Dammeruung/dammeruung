@@ -1,5 +1,5 @@
 ## Hello Hello.
-
+My name is Deniz Demir, and I am currently studying computer science at Arizona State University.
 <!--
 **Dammeruung/dammeruung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
